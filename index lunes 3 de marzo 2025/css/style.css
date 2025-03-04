@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    width: 100px
+}
+header{
+    text-align: center;
+}
+nav li{
+    display: inline /* muestra los elementos en linea horizontal */;
+    padding: 60px /* crea espacio de 60px alrededor del texto */;
+    font-size: 25px /* cambiamos el tamaño del texto */;
+}
+nav a{
+    text-decoration: none; /*quitamos el subrayado de los enlaces */
+    color:black; /* colocamos un color negro a la letra */
+}
+nav a:hover{
+    text-decoration: underline; /* cuando la persona pase el mouse en el enlace, se subrayara el texto */
+}
+main {
+    background-color: #ffffff;
+    color: #000;
+}
+.welcome{
+    padding: 20px; /* hacemos un espacio alrededor de 20px alrededor delcontenido */
+    background-color: darkblue; /* color de fondo del DIV */
+    text-align: center; /* alineamos el texto al centro */
+    color: white; /* cpñpca,ps cpñpr blanco al texto */
+}
+.courses{
+    padding: 30px;
+}
+p{
+    font-size: 18px; /* aumenta el tamaño de la 
+}
